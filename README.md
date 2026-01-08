@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Calibri&size=34&letterSpacing=0px&duration=2500&pause=2000&&color=000000&random=false&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Katie!;Software+Engineer)](https://git.io/typing-svg)
 
-<p align="left"> I am a highly motivated Software Developer utilizing a successful background as a former educator to help with my direction and project planning. I am equipped with recent coursework in MERN Stack, with a strong attention to detail. My experience in education, coupled with versatile skills in customer service, accounting, and effective communication, positions me as a self-starter and quick learner ready to excel in a dynamic development role. 
+<p align="left"> Highly effective software developer trained in MERN stack through Per Scholas, transitioning from education to tech. Recognized for organization, attention to detail, and experience in analyzing data. Adept at reviewing and correcting digital information. Traveled and worked internationally with experience in multiple organizations, cultures and languages. A self-starter with excellent communication skills, eager to contribute effectively as part of a dynamic development team. Strong team collaborator with a background in cross-functional roles and multicultural environments.
 </p>
 <p align="left">
 How to reach me:
